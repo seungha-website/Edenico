@@ -61,6 +61,7 @@ body {
 }
 .top_sub li a:hover{
     color: white;
+    text-shadow: 5px 5px 5px rgb(0 0 0 / 50%);
 }
 #top h3 {
     position: absolute;
@@ -205,6 +206,9 @@ body {
     position: absolute;
     top: 0;
     right: 11%;
+}
+.sns a img:hover{
+    opacity: 0.3;
 }
 .sns a{
     padding: 10px;
