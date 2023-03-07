@@ -87,6 +87,12 @@ body {
     text-shadow: 5px 5px 5px rgb(0 0 0 / 70%);
     animation: ani 2s ease 1s;
 }
+/* 영상 */
+.video{
+    width: 1320px;
+    /* height: 640px; */
+    margin: 100px auto;
+}
 
 /* 체크인 */
 #main1 {
