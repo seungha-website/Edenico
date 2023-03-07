@@ -141,11 +141,14 @@ body {
     overflow: hidden;
 }
 #main3 h3 {
-    text-align: left;
+    text-align: center;
     color: #d78022;
     font-family: 'Pretendard-Bold';
     margin-bottom: 10px;
     padding-top: 10px;
+}
+#main3 p{
+    text-align: center;
 }
 
 .main3_inner {
@@ -155,6 +158,7 @@ body {
 /* 다이닝 */
 .B{
     background-color: #ddd;
+    text-align: center;
 }
 #main3 h1 {
     text-align: center;
@@ -213,3 +217,12 @@ body {
 .sns a{
     padding: 10px;
 }
+
+/* 모바일
+@media (max-width: 799px)
+.m_nav {
+    display: block;
+}
+.m_nav {
+    display: none;
+} */
